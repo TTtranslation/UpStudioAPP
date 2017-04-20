@@ -4,7 +4,7 @@
             "date": "2017-04-20",
             "name":"en"
         },
-    "Iphone_Ipad":{
+    "IOS":{
         "TT_SYSTEMUNLINK":"Printer not Connected",
         "TT_SYSTEMERROR":"Not Initialized",
         "TT_PREPARED":"Printer Ready",
