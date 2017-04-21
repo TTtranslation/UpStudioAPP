@@ -74,7 +74,7 @@
         "Stop":"Stop",
         "Printer_List":"Printer List",
         "Please_Enter":"Please Enter",
-        "s_Password":"'s Password",
+        "s_Password":"s Password",
         "Please_Enter_Password":"Please Enter Password",
         "Connecting":"Connecting",
         "Failed_to_Connect":"Failed to Connect",
