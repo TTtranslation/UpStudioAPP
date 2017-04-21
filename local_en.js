@@ -34,7 +34,7 @@
         "Locals": "Locals",
         "Featured": "Featured",
         "More": "More",
-        "Bundled": "Bundled",
+        "Library": "Library",
         "DIY": "DIY",
         "Printer": "Printer",
         "Account": "Account",
@@ -140,7 +140,7 @@
         "NoticeText_SliceError": "ERROR: Slicing Error",
         "Progress": "Progress",
         "Initializing": "Initializing",
-        "Use_Camera": "Camera",
+        "Use_Camera": "Use Camera",
         "Album": "Album",
         "NoticeText_OutBound": "ERROR: Model out of Bound",
         "NoticeText_NozzHeight": "ERROR: Nozzle Height Error. Valid Range (x - x)",
@@ -222,7 +222,7 @@
         "Under_Review": "Under Review",
         "Purchase_Type": "Purchase Type",
         "Customized": "Customized",
-        "Local_Pictures": "Local Pictures",
+        "Local_Pictures": "Album",
         "Take_a_picture": "Camera",
         "Edit": "Edit",
         "Pen": "Pen",
@@ -251,6 +251,12 @@
         "WeChat_Official_Account": "WeChat official account",
         "Official_Website": "Official Website",
         "Software_License_Agreement": "Software License Agreement",
-        "Copyright_Text": "Copyright © 2012-2017 TierTime.All right Reserved."
+        "Copyright_Text": "Copyright © 2012-2017 TierTime.All right Reserved.",
+        "Color_change":"Color Change",
+        "floor":"Floor",
+        "no_floor":"No Floor",
+        "Punching":"Punching",
+        "Adjustment":"Adjustment",
+        "The_model_does_not_exist":"The model does not exist"
     }
 }
