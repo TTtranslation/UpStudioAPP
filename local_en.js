@@ -120,7 +120,7 @@
         "Unbind":"Unbind",
         "Bind":"Bind",
         "Privacy_Policy":"Privacy Policy",
-        "Clean_Up_Cache ":"Clean Up Cache ",
+        "Clean_Up_Cache":"Clean Up Cache",
         "Sign_Out":"Sign Out",
         "Infill":"Infill",
         "Layer_Thickness":"Layer Thickness",
