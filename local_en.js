@@ -243,7 +243,7 @@
         "Scale": "Scale",
         "Rotate": "Rotate",
         "Initial_View": "Initial View",
-        "x": "x",
+        "X": "X",
         "Y": "Y",
         "Z": "Z",
         "AboutUs": "About",
@@ -257,6 +257,11 @@
         "no_floor":"No Floor",
         "Punching":"Punching",
         "Adjustment":"Adjustment",
-        "The_model_does_not_exist":"The model does not exist"
+        "The_model_does_not_exist":"The model does not exist",
+        "ModelName":"Model Name",
+        "UploadModel":"Upload Model",
+        "Width":"Width",
+        "Height":"Height",
+        "ModelAdjustment":"Model Adjustment"
     }
 }
