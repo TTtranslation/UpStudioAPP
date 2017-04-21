@@ -156,7 +156,7 @@
         "NoticeText_TransError7":"Can not load buildstart program",
         "NoticeText_TransError8":"Lost WIFI packages",
         "NoticeText_TransError9":"Null temperature setting",
-        "NoticeText_TransError10 ":"License verify failed", 
+        "NoticeText_TransError10":"License verify failed", 
         "Failed_to_load_model":"Failed to load model",
         "NoticeText_BuySuccess":"Purchase Successful",
         "NoticeText_BuyFail":"Purchase Failed. Please Try Again",
