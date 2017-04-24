@@ -191,7 +191,7 @@
     "ActivateTip_ActivateSuccess": "Activation succeeded. Please restart the printer.",
     "Please_Close_the_Front_Door": "Please Close the Front Door.",
     "Print_Job_Stopped_at_Layer_Number": "Print Job Stopped at Layer No.",
-    "Resume_the_Print_Job": ". Resume the Print Job?",
+    "Resume_the_Print_Job": ",Resume the Print Job?",
     "Data_Transmission_Failed": "ERROR: Data Transmission Failed. Try Again?",
     "Unnamed": "Unnamed",
     "Invalid_Activation_Key": "ERROR: Invalid Activation Key",
