@@ -1,7 +1,7 @@
 ﻿var english = {
     "name": {
         "version": "2.0",
-        "date": "2017-04-24",
+        "date": "2017-04-27",
         "name": "en"
     },
     "IOS": {
@@ -90,7 +90,7 @@
     "Username_or_Email": "Username / Email",
     "Password": "Password",
     "Login": "Login",
-    "Forgot_Password": "Forgot Password?",
+    "Forgot_Password": "Forgot Password",
     "Sign_Up": "Sign Up",
     "Register_Username": "Username (3-20 Characters Starting with a Letter)",
     "Register_Email": "Email (Enter an Email Address)",
@@ -171,11 +171,11 @@
     "NoticeLink_ConnectFail": "Cannot Connect to the Printer",
     "NoticeLink_NoRespone": "ERROR: Printer not Responding",
     "NoticeLink_Busy": "Printer Busy",
-    "CustomMaterial_NameTips": "Please Enter 1-5 Characters",
-    "CustomMaterial_NameRepeat": "ERROR: Matieral Name Duplicated",
+    "CustomMaterial_NameTips": "Please Enter 1-5 Characters For Material Name",
+    "CustomMaterial_NameRepeat": "Matieral Name Duplicated",
     "CustomMaterial_TempTips": "Please Enter a Temperature Value(℃)",
-    "CustomMaterial_NozzleTempTips": "ERROR: Temperature Value not Valid. Please enter (0-300)℃",
-    "CustomMaterial_PlatTempTips": "ERROR: Temperature Value not Valid. Please enter (0-100)℃",
+    "CustomMaterial_NozzleTempTips": "Temperature of Nozzle not valid. Please enter (0-300)℃",
+    "CustomMaterial_PlatTempTips": "Temperature of Platform not valid. Please enter (0-100)℃",
     "No_Printer_Found": "No Printer Found",
     "Printer_Status_Error": "ERROR: Printer Status Error",
     "Please_Connect_to_a_Printer": "Please Connect to a Printer",
@@ -262,6 +262,8 @@
     "UploadModel":"Upload Model",
     "Width":"Width",
     "Height":"Height",
+    "Depth":"Depth",
+    "Input_Error":"Please enter valid characters",
     "ModelAdjustment":"Model Adjustment",
     "The_model_does_not_exist": "The model does not exist",
     "Binded":"Binded",
@@ -297,6 +299,7 @@
     "ErrorText_IncorrectMaterial":"Incorrect material",
     "ErrorText_Printer_SN_Error":"Printer SN error",
     "Join":"Join",
-    "Package":"Package"
+    "Package":"Package",
+    "Progress_Rate":"Progress"
 }
 }
