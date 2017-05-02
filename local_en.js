@@ -247,6 +247,7 @@
     "X": "X",
     "Y": "Y",
     "Z": "Z",
+    "To_print":"Print",
     "AboutUs": "About",
     "Current_Version": "Version",
     "WeChat_Official_Account": "WeChat Account",
