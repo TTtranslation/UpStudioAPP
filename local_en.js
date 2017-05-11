@@ -1,7 +1,7 @@
 ﻿var english = {
     "name": {
         "version": "2.0",
-        "date": "2017-04-27",
+        "date": "2017-05-11",
         "name": "en"
     },
     "IOS": {
@@ -139,7 +139,7 @@
     "g": "g",
     "NoticeText_SliceError": "ERROR: Slicing Error",
     "Progress": "Progress",
-    "Initializing": "Initializing",
+    "Initializing": "Initializing...",
     "Use_Camera": "Camera",
     "Album": "Album",
     "NoticeText_OutBound": "ERROR: Model out of Bound",
@@ -171,7 +171,7 @@
     "NoticeLink_ConnectFail": "Cannot Connect to the Printer",
     "NoticeLink_NoRespone": "ERROR: Printer not Responding",
     "NoticeLink_Busy": "Printer Busy",
-    "CustomMaterial_NameTips": "Please Enter 1-5 Characters For Material Name",
+    "CustomMaterial_NameTips": "Please Enter 1-5 Characters For Material Name(Combination of letters, numbers and '+' '-' '_')",
     "CustomMaterial_NameRepeat": "Matieral Name Duplicated",
     "CustomMaterial_TempTips": "Please Enter a Temperature Value(℃)",
     "CustomMaterial_NozzleTempTips": "Temperature of Nozzle not valid. Please enter (0-300)℃",
@@ -301,6 +301,11 @@
     "ErrorText_Printer_SN_Error":"Printer SN error",
     "Join":"Join",
     "Package":"Package",
-    "Progress_Rate":"Progress"
+    "Progress_Rate":"Progress",
+    "Import_Successful":"Model has been imported. Open it now?",
+    "Open":"Open",
+    "OpenFail_Slice":"Load model failed, can not load other models when slicing!",
+    "OpenFail_Trans":"Failed to load model, can not load other models when transporting!",
+    "RegisterFail_hasExist":"Registration failed, username or email already exists!"
 }
 }
