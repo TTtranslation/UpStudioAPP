@@ -1,7 +1,7 @@
 ﻿var english = {
     "name": {
         "version": "2.0",
-        "date": "2017-05-11",
+        "date": "2017-05-31",
         "name": "en"
     },
     "IOS": {
@@ -185,7 +185,7 @@
     "Failed_to_Pause_Print_Job": "Failed to Pause Print Job",
     "Failed_to_Resume_Print_Job": "Failed to Resume Print Job",
     "Confirm_to_stop_the_current_job": "Confirm to stop the current job?",
-    "NoticeLink_CheckNetTip": "Please Check Your Network Setup, and Make Sure the APP Connects to the Same Router that the Printer is using",
+    "NoticeLink_CheckNetTip": "Please Check Your Network Setup, and Make Sure the APP Connects to the Same Router that the Printer is using.",
     "ActivateTip": "Please activate the printer to use the full power of the printer.",
     "ActivateTip_ActivateFail": "Failed to activate the printer. Please contact the manufacturer.",
     "ActivateTip_ActivateSuccess": "Activation succeeded. Please restart the printer.",
@@ -261,8 +261,8 @@
     "Adjustment": "Adjustment",
     "ModelName":"Model Name",
     "UploadModel":"Upload Model",
-    "Width":"Width",
-    "Height":"Height",
+    "Width":"Length",
+    "Height":"Width",
     "Depth":"Depth",
     "Input_Error":"Please enter valid characters",
     "ModelAdjustment":"Model Adjustment",
@@ -306,6 +306,10 @@
     "Open":"Open",
     "OpenFail_Slice":"Load model failed, can not load other models when slicing!",
     "OpenFail_Trans":"Failed to load model, can not load other models when transporting!",
-    "RegisterFail_hasExist":"Registration failed, username or email already exists!"
+    "RegisterFail_hasExist":"Registration failed, username or email already exists!",
+    "No_network":"No Internet connection, please connect to the Internet.",
+    "Error_ModelData":"conversion of failure model data into 0",
+    "Demonstration":"Demonstration",
+    "ModelSaveFailed":"Model save failed, please try again!"
 }
 }
