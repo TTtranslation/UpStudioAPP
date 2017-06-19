@@ -1,7 +1,7 @@
 ﻿var english = {
     "name": {
         "version": "2.0",
-        "date": "2017-05-31",
+        "date": "2017-06-19",
         "name": "en"
     },
     "IOS": {
@@ -32,7 +32,7 @@
     "TT_COMMERROR": "Communication Error",
     "Please_choose_a_printer": "Please choose a printer",
     "Locals": "Locals",
-    "Featured": "Featured",
+    "Featured": "Moshop",
     "More": "More",
     "Library": "Library",
     "DIY": "DIY",
@@ -289,6 +289,8 @@
     "Remaining_Prints":"Remaining prints",
     "times":"times",
     "Successful_publish":"Successful publish",
+    "Successful_upload":"Successful upload",
+    "ErrorText_timeout":"failed upload，time out",
     "Action_failed_please_try_later":"Action failed,please try later",
     "Stop_Printing":"Stop Printing",
     "ErrorText_MaterialShortage":"Printer is short of material. Still continue?",
@@ -310,6 +312,9 @@
     "No_network":"No Internet connection, please connect to the Internet.",
     "Error_ModelData":"conversion of failure model data into 0",
     "Demonstration":"Demonstration",
-    "ModelSaveFailed":"Model save failed, please try again!"
+    "MyProfile":"My Profile",
+    "ModelDetails":"Model Details",
+    "Description":"Description",
+    "Enter_Description":"Enter the description"
 }
 }
