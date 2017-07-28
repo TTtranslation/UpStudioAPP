@@ -1,7 +1,7 @@
 ﻿var english = {
     "name": {
         "version": "2.0",
-        "date": "2017-07-03",
+        "date": "2017-07-28",
         "name": "en"
     },
     "IOS":{
@@ -158,7 +158,7 @@
     "NoticeText_BuySuccess": "Purchase Successful",
     "NoticeText_BuyFail": "Purchase Failed. Please Try Again",
     "NoticeText_BuyPointError": "No Enough Points",
-    "NoticeText_PublishName": "Please Enter Model Name",
+    "NoticeText_PublishName": "1-32 Characters",
     "NoticeText_PublishPoint": "Please Enter a Number",
     "No_data": "No Data",
     "NoticeLink_NetworkError": "Network Problems, and Please Try Again Later",
@@ -168,11 +168,11 @@
     "NoticeLink_ConnectFail": "Cannot Connect to the Printer",
     "NoticeLink_NoRespone": "ERROR: Printer not Responding",
     "NoticeLink_Busy": "Printer Busy",
-    "CustomMaterial_NameTips": "Please Enter 1-5 Characters For Material Name(combination of letters, numbers and '+' '-' '_')",
+    "CustomMaterial_NameTips": "1-5 Characters(Letters, Numbers and '+' '-' '_')",
     "CustomMaterial_NameRepeat": "Matieral Name Duplicated",
     "CustomMaterial_TempTips": "Please Enter a Temperature Value(℃)",
-    "CustomMaterial_NozzleTempTips": "Temperature of Nozzle not valid. Please enter (0-300)℃",
-    "CustomMaterial_PlatTempTips": "Temperature of Platform not valid. Please enter (0-100)℃",
+    "CustomMaterial_NozzleTempTips": "Temperature(0-300)℃",
+    "CustomMaterial_PlatTempTips": "Temperature(0-100)℃",
     "Printer_Status_Error": "ERROR: Printer Status Error",
     "Invalid_Email_Address": "Invalid Email Address",
     "Email_not_Valid_or_Failed_to_Send_Email": "Failed to Send Email",
@@ -204,7 +204,7 @@
     "Slicing_in_progress_Cannot_load_models": "Slicing! Cannot load models.",
     "No_material_detected_Please_reload_material": "No material detected. Please reload material.",
     "PrivacyText": "Please review Tiertime's Privacy Policy to know the details about Tiertime's data collection policy.You can choose to turn on or off the data collection optinos based on your preference.",
-    "Singlepass_printing": "Single-pass printing",
+    "Singlepass_printing": "One time",
     "Registration_meas_you_agree_with": "Registration meas you agree with",
     "Tiertime_End_User_Agreement": "Tiertime End User Agreement",
     "Under_Review": "Under Review",
@@ -215,6 +215,7 @@
     "Pen": "Pen",
     "Text": "Text",
     "Crop": "Crop",
+    "image_relative":"Relative",
     "NA": "----",
     "Add_Text": "Add Text",
     "Click_to_Enter_Text": "Click to Enter Text",
@@ -241,7 +242,7 @@
     "Width":"Length",
     "Height":"Width",
     "Depth":"Depth",
-    "Input_Error":"Please enter valid characters",
+    "Input_Error":"Number",
     "ModelAdjustment":"Edit",
     "The_model_does_not_exist": "The model does not exist",
     "Binded":"Binded",
@@ -296,6 +297,14 @@
     "Allow_album_access":"Allow album access",
     "Allow_camera_access":"Allow camera access",
     "album_privacy_text":"APP don't have the premission to access the album, allow access to the album in your device's settings. ",
-    "carema_privacy_text":"APP don't have the premission to access the carema, allow access to the carema in your device's settings."
+    "carema_privacy_text":"APP don't have the premission to access the carema, allow access to the carema in your device's settings.",
+    "Print_count": "Print Times",
+    "UPS_Model_validation_failure":"ERROR: Model validation failure",
+    "NoticeText_PublishNameNull":"The model name cannot be empty",
+    "Model_publish_limited": "Unlimited print prices must be higher than a single print price",
+    "Printer_disconnect":"The printer is disconnected",
+    "Nozzle_diameter": "Nozzle Diam",
+    "Compensation_height": "Nozzle offset",
+    "Choose_floor": "Print Board"
 }
 }
