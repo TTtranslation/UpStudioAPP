@@ -255,7 +255,6 @@
     "Transport":"Sending",
     "Counting":"Counting",
     "Select_the_print_location":"Select the print location",
-    "Single_print_points":"Single-print points",
     "User_does_not_exist":"User does not exist",
     "Wrong_password":"Password is not correct",
     "Login_fail_Text":"Failed! please try again later",
@@ -305,6 +304,19 @@
     "Printer_disconnect":"The printer is disconnected",
     "Nozzle_diameter": "Nozzle Diam",
     "Compensation_height": "Nozzle offset",
-    "Choose_floor": "Print Board"
+    "Choose_floor": "Print Board",
+    "Feedback":"Feedback",
+    "fb_Choose_type":"What dose your feedback relate to?",
+    "fb_Add_text":"Add text",
+    "fb_Text_tips":"Please type your feedbacks(maximum 400 characters)",
+    "fb_Email_title":"Contact infomation(optional)",
+    "fb_Email_placeholder":"Enter your Email address",
+    "fb_SN_title":"Printer SN(optional)",
+    "fb_SN_placeholder":"The serial number of your printer",
+    "fb_Add_images":"Add images(optional)",
+    "fb_opinion":"Question/Opinion",
+    "fb_App_issue":"App issue",
+    "fb_Printer_issue":"Printer issue",
+    "fb_Others":"Other"
 }
 }
