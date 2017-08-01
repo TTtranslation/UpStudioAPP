@@ -1,10 +1,10 @@
 ﻿var english = {
     "name": {
         "version": "2.0",
-        "date": "2017-07-28",
+        "date": "2017-08-01",
         "name": "en"
     },
-    "IOS":{
+    "IOS":  {
     "TT_SYSTEMUNLINK": "Printer Offline",
     "TT_SYSTEMERROR": "Printer Uninitialized",
     "TT_PREPARED": "Printer Prepared",
@@ -203,7 +203,7 @@
     "Loading": "Loading...",
     "Slicing_in_progress_Cannot_load_models": "Slicing! Cannot load models.",
     "No_material_detected_Please_reload_material": "No material detected. Please reload material.",
-    "PrivacyText": "Please review Tiertime's Privacy Policy to know the details about Tiertime's data collection policy.You can choose to turn on or off the data collection optinos based on your preference.",
+    "PrivacyText": "Please review Tiertime's Privacy Policy to know the details about Tiertime's data collection policy.You can choose to turn on or off the data collection options based on your preference.",
     "Singlepass_printing": "One time",
     "Registration_meas_you_agree_with": "Registration meas you agree with",
     "Tiertime_End_User_Agreement": "Tiertime End User Agreement",
@@ -309,7 +309,7 @@
     "fb_Choose_type":"What dose your feedback relate to?",
     "fb_Add_text":"Add text",
     "fb_Text_tips":"Please type your feedbacks(maximum 400 characters)",
-    "fb_Email_title":"Contact infomation(optional)",
+    "fb_Email_title":"Contact infomation",
     "fb_Email_placeholder":"Enter your Email address",
     "fb_SN_title":"Printer SN(optional)",
     "fb_SN_placeholder":"The serial number of your printer",
@@ -317,6 +317,7 @@
     "fb_opinion":"Question/Opinion",
     "fb_App_issue":"App issue",
     "fb_Printer_issue":"Printer issue",
-    "fb_Others":"Other"
+    "fb_Others":"Other",
+    "fb_sendSuccess":"Feedback is sent, thanks for your support."
 }
 }
